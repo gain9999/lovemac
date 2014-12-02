@@ -1,3 +1,3 @@
-bowling_kata
+Lovemac
 ============
-[ ![Codeship Status for gain9999/bowling_kata](https://codeship.io/projects/98422ad0-35ae-0132-af7d-4e5daa8e92bc/status)](https://codeship.io/projects/41157)
+[ ![Codeship Status for gain9999/lovemac](https://codeship.com/projects/972635d0-5c1b-0132-c2ee-0e90e8baf01d/status)](https://codeship.com/projects/50683)
